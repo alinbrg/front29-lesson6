@@ -9,3 +9,21 @@ ul {
 img {
 	width: 100%;
 }
+button {
+	border: none;
+}
+header {
+	background-color: darkblue;
+	padding: 20px;
+}
+header a {
+	color: white;
+}
+header li,
+header nav {
+	display: inline-block;
+}
+.contact-btn {
+	background-color: white;
+	padding: 10px 20px;
+}
